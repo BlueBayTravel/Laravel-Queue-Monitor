@@ -1,5 +1,5 @@
 {
-    "name": "romanzipp/laravel-queue-monitor",
+    "name": "bluebaytravel/laravel-queue-monitor",
     "description": "Queue Monitoring for Laravel Database Job Queue",
     "type": "library",
     "license": "MIT",
